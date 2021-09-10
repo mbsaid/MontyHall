@@ -1,0 +1,12 @@
+Package: Montyhall
+Type: Package
+Title: Using Computing Logic to Build the Game
+Version: 0.1.0
+Author: MOhamed Said
+Maintainer: The package maintainer <mbsaid@asu.edu>
+Description: This package displays the montyhall game, that helps the statistical conditioning
+Depends: dplyr
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
